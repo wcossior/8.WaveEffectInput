@@ -14,6 +14,7 @@ body{
     font-family: 'Lato', sans-serif;
     margin: 0;
     overflow: hidden;
+    color: var(--color-primary);
 }
 
 .container{
@@ -32,4 +33,19 @@ body{
     background-color: var(--color-tertiary);
     padding: 50px;
     /* max-height: 700px; */
+}
+
+.email-container{
+    position: relative;
+    margin-bottom: 25px;
+}
+
+.pass-container{
+    position: relative;
+    margin-bottom: 25px;
+}
+
+label{
+    position: absolute;
+    color: #6D545D;
 }
