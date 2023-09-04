@@ -47,5 +47,10 @@ body{
 
 label{
     position: absolute;
-    color: #6D545D;
+}
+
+input{
+    background-color: transparent;
+    border: none;
+    border-bottom: 3px var(--color-primary) solid;
 }
