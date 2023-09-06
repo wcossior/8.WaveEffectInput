@@ -48,13 +48,14 @@ body{
 .pass-container{
     width: 100%;
     position: relative;
-    margin-bottom: 25px;
+    margin-bottom: 40px;
 }
 
 label{
     position: absolute;
     font-size: 18px;
     bottom: 10px;
+    transition: bottom 0.5s ease;
 }
 
 input{
