@@ -110,3 +110,7 @@ input:valid+label span {
     opacity: 0.6;
     text-decoration: none;
 }
+
+::-ms-reveal {
+    filter: invert(100%);
+}
