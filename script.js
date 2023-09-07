@@ -1,4 +1,3 @@
-
 let labels = document.querySelectorAll('.login label');
 
 labels.forEach(label => {
