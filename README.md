@@ -6,7 +6,7 @@ You can check it out: [HERE](https://wcossior.github.io/8.WaveEffectInput/)
 
 ## Features
 
-- **Input Wave Animation**: The labels of the input fields produce a wave-effect animation when the respective input gains focus.
+- **Input Wave Animation**: The labels of the input fields produce a wave-like animation when the respective input gains focus.
 - **Clean UI**: The project features a simple and aesthetically pleasing design.
 - **Static Login Form**: While the login form is present, it does not authenticate users and serves as a visual representation of the input effect.
 
