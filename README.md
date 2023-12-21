@@ -1,4 +1,4 @@
-**WaveEffectInput**
+#WaveEffectInput
 
 The Input Wave Effect project is a simple web application that showcases an engaging UI effect on input labels. When an input field gains focus, a wave-like animation is triggered, providing a visually appealing experience. The project is built using HTML, CSS, and JavaScript and is centered around a static login form.
 
