@@ -16,5 +16,5 @@ The project operates with the following principles:
 
 1. **HTML Structure**: The login form and input elements are defined in the HTML file.
 2. **CSS Styling**: Styling is applied to create the desired visual effect and layout.
-3. **JavaScript Interactivity**: Event listeners are utilized to detect input focus and trigger the wave animation.
+3. **JavaScript Label Transformation**: JavaScript is used to transform the labels into span elements with a staggered transition delay.
 
